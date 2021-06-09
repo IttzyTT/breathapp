@@ -1,2 +1,2 @@
 # breathapp
-Breathing app
+Breathing App
